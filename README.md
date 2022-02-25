@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-using-css-grid-and-flex-5iYp8oHlx](https://www.frontendmentor.io/solutions/clipboard-landing-page-using-css-grid-and-flex-5iYp8oHlx)
-- Live Site URL: [https://bnkaziz.github.io/clipboard-landing-page-master](https://bnkaziz.github.io/clipboard-landing-page-master)
+- Live Site URL: [https://kaderdjb.github.io/clipboard-landing-page-master/](https://kaderdjb.github.io/clipboard-landing-page-master/)
 
 ## My process
 
