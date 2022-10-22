@@ -41,6 +41,4 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-## Author
 
-- Frontend Mentor - [@bnkaziz](https://www.frontendmentor.io/profile/bnkaziz)
